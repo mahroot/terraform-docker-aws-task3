@@ -30,7 +30,7 @@ terraform-docker-aws-task3/
 
 1. **Clone Repo**
    ```bash
-   git clone https://github.com/<your-username>/terraform-docker-aws-task3.git
+   git clone https://github.com/mahroot/terraform-docker-aws-task3.git
    cd terraform-docker-aws-task3
 ````
 
