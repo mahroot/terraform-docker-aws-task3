@@ -32,14 +32,15 @@ terraform-docker-aws-task3/
    ```bash
    git clone https://github.com/mahroot/terraform-docker-aws-task3.git
    cd terraform-docker-aws-task3
-````
-
+`
 2. **Initialize Terraform**
 
-   ```bash
-   terraform init
-   ```
+    ```bash
+    terraform init
+   `
 
+
+   
 3. **Check Plan**
 
    ```bash
